@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+
+# Except
+!/.gitignore
+!/config.example.ini
+!/README.md
